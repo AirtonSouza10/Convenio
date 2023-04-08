@@ -1,4 +1,4 @@
-# ConvenioPHP
+# ConvenioJAVA Swing
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/AirtonSouza10/Convenio/tree/master) 
 
 # Sobre o projeto
